@@ -1,0 +1,7 @@
+game,video,2 3 con muc,20.00,P0001,2019
+game,video,3conheo,20.00,P0008,2012
+movie,video,Hacker,400.00,P0004,1999
+music,audio,hero,3.00,P0003,2015
+game,video,Renai Circulator,402.00,P0005,2001
+movie,audio,The call,2.00,P0002,2005
+music,video,Waiting,20.00,P0006,2022
